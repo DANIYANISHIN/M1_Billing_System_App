@@ -7,4 +7,5 @@ Sololearn c course
 Netacad linux
 Simplilearn Getting started with GIT
 Github Firstday ON github
-
+![HACKEREARTH_DANIYA NISHI N](https://user-images.githubusercontent.com/101271806/160634828-6290a684-96fe-447f-92c0-c2883ce1446f.png)
+HACKER EARTH POINTS 

@@ -1,6 +1,7 @@
 #include<stdio.h>
-#include<stdlib.h>
 #include<string.h>
+#include<stdlib.h>
+
 float amount(float rate, int quantity, float discount, float vat);
 void main()
 {

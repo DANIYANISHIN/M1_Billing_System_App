@@ -2,27 +2,28 @@
 
 | Quality Badge|
 |---|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/80e745ec117d49488bace15a7616bd4d)](https://www.codacy.com/gh/sharmavel/M1_Application_Customer-Billing-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sharmavel/M1_Application_Customer-Billing-system&amp;utm_campaign=Badge_Grade)|
+|[![Codacy Badge](https://api.codiga.io/project/32446/score/svg)](https://www.codacy.com/gh/DANIYANISHIN/M1_Billing_System_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DANIYANISHIN/M1_Billing_System_App&amp;utm_campaign=Badge_Grade)|
 
+![Code Grade](https://api.codiga.io/project/32446/status/svg)
  |Linux c/c++ Badge|
  |---|
-|[![Linux C/C++ CI](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/Linux_c-ccp.yml)|
+|[![Linux C/C++ CI](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/Linux_c-ccp.yml)|
  
  | windows c/c++ Badge|
  |---|
-| [![Windows C/C++ CI](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/windows_c-ccp.yml)|
+| [![Windows C/C++ CI](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/windows_c-ccp.yml)|
 
 |Ccpcheck|
 |---|
-|[![Code Quality - Static Code - Cppcheck](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/cppcheck.yml)|
+|[![Code Quality - Static Code - Cppcheck](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/cppcheck.yml)|
 
 | Unit_Testing|
 |---|
-|[![C/C++ CI UnitTesting](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/unit_testing.yml)|
+|[![C/C++ CI UnitTesting](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/unit_testing.yml)|
 
 | Gitinspector Badge|
 |---|
-|[![Contribution Check - Git Inspector](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/gitinspector.yml)|
+|[![Contribution Check - Git Inspector](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/gitinspector.yml)|
 
 ## Folder Structure
 |Folder|	Description|

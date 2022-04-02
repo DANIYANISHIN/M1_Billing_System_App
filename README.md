@@ -41,7 +41,7 @@
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-88454444| DANIYA NISHI N| Billing_System_App   | 2    | 2   | 8  | 8
+88454444| DANIYA NISHI N| Billing_System_App   | 2    | 2   | 4 | 4
 
 
 ## Challenges Faced and How Was It Overcome

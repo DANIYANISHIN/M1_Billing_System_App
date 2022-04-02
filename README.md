@@ -4,7 +4,10 @@
 |---|
 |[![Codacy Badge](https://api.codiga.io/project/32446/score/svg)](https://www.codacy.com/gh/DANIYANISHIN/M1_Billing_System_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DANIYANISHIN/M1_Billing_System_App&amp;utm_campaign=Badge_Grade)|
 
+| Code Grade|
+|---|
 ![Code Grade](https://api.codiga.io/project/32446/status/svg)
+
  |Linux c/c++ Badge|
  |---|
 |[![Linux C/C++ CI](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/Linux_c-ccp.yml)|
@@ -13,9 +16,6 @@
  |---|
 | [![Windows C/C++ CI](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/windows_c-ccp.yml)|
 
-|Ccpcheck|
-|---|
-|[![Code Quality - Static Code - Cppcheck](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DANIYANISHIN/M1_Billing_System_App/actions/workflows/cppcheck.yml)|
 
 | Unit_Testing|
 |---|

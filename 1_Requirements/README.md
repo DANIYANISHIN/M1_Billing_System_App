@@ -1,13 +1,13 @@
 
 # INTRODUCTION
 
-         This project is about Customer Billing System.This project helps
+         This project is about Billing System App.This project helps
          the shopkeeper to track the customers information and their
          product details.
 
-## FEATURES OF CUSTOMER BILLING SYSTEM
+## FEATURES OF BILLING SYSTEM APP
 
-The Customer Billing System has :
+
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
